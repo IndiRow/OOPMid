@@ -18,4 +18,5 @@ Inheritance example<br>
 ![2d20b4fd2d6d08a533def560ebcc48b1](https://user-images.githubusercontent.com/39675003/97804890-cd405580-1c7c-11eb-833d-6f72cda61aa8.png)
 <hr>
 As bonus here's JAR packed file<br> 
+![8e42c4d7e55a0f25feb188e52da5e0b4](https://user-images.githubusercontent.com/39675003/97804932-0b3d7980-1c7d-11eb-94ee-22b138314b13.png)
 
